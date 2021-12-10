@@ -52,6 +52,5 @@ while True:
         driver.quit()
 
     print()
+
     time.sleep(int(5 + random.random() * 5))
-
-
